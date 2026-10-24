@@ -298,3 +298,4 @@ MIT License — see [LICENCE](LICENCE)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/chart?repos=nellimonix/warp-config-generator-vercel&type=date&legend=bottom-right&sealed_token=239JRz1TCX2p0ksZ8FDfmV9rtt4mTaU88UCtljMUhAEtzLx3IE7A7souoN6aCO4BD9Io76Jg-9Zrk_vaT3pB2cVwSfcUCf8RqLS1z2pLcjvxTTBmwcFIoA)](https://www.star-history.com/?repos=nellimonix%2Fwarp-config-generator-vercel&type=date&legend=bottom-right)
+<!-- Deployed on Cloudflare Workers as warp -->
